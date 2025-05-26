@@ -27,7 +27,7 @@ This is a 3D first-person coin collection game built using the [Ursina Game Engi
 bash
 Copy
 Edit
-git clone https://github.com/your-username/ursina-coin-maze-game.git
+git clone https://github.com/Manikanta-palagani/Maze.git
 cd ursina-coin-maze-game
 Place the maze.obj model in the project directory.
 
